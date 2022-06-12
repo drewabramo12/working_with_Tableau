@@ -6,7 +6,7 @@ The purpose of this project was to show the visualization capabalities of Tablea
 ## Results
 
 The story of CitiBike
-[Story](https://10az.online.tableau.com/#/site/andrew209/views/Tableau_challenge/Story1?:iid=7)
+[Story](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/Story1?:iid=10)
 
 Breakdown of Usage
 [Usage Breakdown](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/CheckoutTimesforUsers?:iid=2)
