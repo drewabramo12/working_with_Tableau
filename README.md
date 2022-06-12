@@ -3,34 +3,34 @@
 ## Overview
 The purpose of this project was to show the visualization capabalities of Tableau to depict demographic data. The project allowed means to see when bikes were being most used and buy which genders. Visualizations were also used to determine average bike usage per trip.
 
-## Summary
+## Results
 
 The story of CitiBike
 [Story](https://10az.online.tableau.com/#/site/andrew209/views/Tableau_challenge/Story1?:iid=7)
 
 Breakdown of Usage
-[Usage Breakdown](https://10az.online.tableau.com/#/site/andrew209/views/Tableau_challenge/CheckoutTimesforUsers?:iid=8)
+[Usage Breakdown](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/CheckoutTimesforUsers?:iid=2)
 
 The line determines average usage of each bike.
 
 Gender Breakdown of Usage
-[Gender Breakdown](https://10az.online.tableau.com/#/site/andrew209/views/Tableau_challenge/CheckoutTimesbyGender?:iid=2)
+[Gender Breakdown](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/CheckoutTimesbyGender?:iid=3)
 
 Each color represents a differnt gender. Orange represents male. Blue represents female. Red represents unknown.
 
 
 Trips Based on Time of Day
-[Trips Based on Usage](https://10az.online.tableau.com/#/site/andrew209/views/Tableau_challenge/TripsbyWeekdayforEachHour?:iid=5)
+[Trips Based on Usage](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/TripsbyWeekdayperHour?:iid=6)
 
 The intensity of the color determines the activity of bikes during that time of day and day.
 
 Trips Based on Time of Day and Gender
-[Trips Based on Usage](https://10az.online.tableau.com/#/site/andrew209/views/Tableau_challenge/TripsbyGenderWeekdayperHour?:iid=4)
+[Trips Based on Usage](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/TripsbyGenderWeekdayperHour?:iid=7)
 
 The intensity of the color determines the activity of bikes during that time of day, day, and gender.
 
 Breakdown of Gender and User Type
-[User Type](https://10az.online.tableau.com/#/site/andrew209/views/Tableau_challenge/UserTripsbyGenderbyWeekday?:iid=6)
+[User Type](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/UserTripsbyGenderbyWeek?:iid=8)
 
 The intensity of color determines the highest level of users of subscription type and gender.
 
