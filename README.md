@@ -14,7 +14,7 @@ Breakdown of Usage
 The line determines average usage of each bike.
 
 Gender Breakdown of Usage
-[Gender Breakdown]((https://public.tableau.com/app/profile/andrew.abramo/viz/CitiBike_17139341500910/GenderBreakdown#1))
+[Gender Breakdown](https://public.tableau.com/app/profile/andrew.abramo/viz/CitiBike_17139341500910/GenderBreakdown#1)
 
 Each color represents a differnt gender. Orange represents male. Blue represents female. Red represents unknown.
 
