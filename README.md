@@ -1,4 +1,4 @@
-# working_with_Tableu
+# working_with_Tableau
 
 ## Overview
 The purpose of this project was to show the visualization capabalities of Tableau to depict demographic data. The project allowed means to see when bikes were being most used and buy which genders. Visualizations were also used to determine average bike usage per trip.
