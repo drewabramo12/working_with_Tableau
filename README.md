@@ -25,7 +25,7 @@ Trips Based on Time of Day
 The intensity of the color determines the activity of bikes during that time of day and day.
 
 Trips Based on Time of Day and Gender
-[Trips Based on Usage](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/TripsbyGenderWeekdayperHour?:iid=7)
+[Trips Based on Usage](https://public.tableau.com/app/profile/andrew.abramo/viz/Citibike_Challenge_16498280844110/TripsbyGenderWeekdayperHour#1)
 
 The intensity of the color determines the activity of bikes during that time of day, day, and gender.
 
