@@ -5,11 +5,8 @@ The purpose of this project was to show the visualization capabalities of Tablea
 
 ## Results
 
-The story of CitiBike
-[Story](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/Story1?:iid=10)
-
 Breakdown of Usage
-[Usage Breakdown](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/CheckoutTimesforUsers?:iid=2)
+[Usage Breakdown](https://public.tableau.com/app/profile/andrew.abramo/viz/Citibike_Challenge_16498280844110/CheckoutTimeforUsers#1)
 
 The line determines average usage of each bike.
 
@@ -18,9 +15,8 @@ Gender Breakdown of Usage
 
 Each color represents a differnt gender. Orange represents male. Blue represents female. Red represents unknown.
 
-
 Trips Based on Time of Day
-[Trips Based on Usage](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/TripsbyWeekdayperHour?:iid=6)
+[Trips Based on Usage](https://public.tableau.com/app/profile/andrew.abramo/viz/Citibike_Challenge_16498280844110/TripsbyWeekdayforEachHour#1)
 
 The intensity of the color determines the activity of bikes during that time of day and day.
 
@@ -30,7 +26,7 @@ Trips Based on Time of Day and Gender
 The intensity of the color determines the activity of bikes during that time of day, day, and gender.
 
 Breakdown of Gender and User Type
-[User Type](https://10az.online.tableau.com/#/site/andrew/views/Citibike_Challenge/UserTripsbyGenderbyWeek?:iid=8)
+[User Type](https://public.tableau.com/app/profile/andrew.abramo/viz/Citibike_Challenge_16498280844110/Sheet4#1)
 
 The intensity of color determines the highest level of users of subscription type and gender.
 
